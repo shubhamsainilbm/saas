@@ -1,0 +1,891 @@
+[{
+  "_id": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "mobile": "1234567890",
+  "image": "https://content-saas-crm.onrender.com/uploads/users-images/1695276465247-download.jpeg",
+  "role": "admin",
+  "facebook": "facebook",
+  "twitter": "twitter",
+  "linkedin": "linkedin",
+  "authorBio": "authorBio",
+  "address": "address",
+  "bankAccountNumber": "bankaccoutnt",
+  "ifseCode": "ifseCode",
+  "panNumber": "panNumber",
+  "password": "$2a$10$PQigADyUgwSFvEmH63hmaelBBd15v7WEkRJ6IHJtSYs3gWBbplpxG",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-17T10:11:13.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T06:07:45.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64defb894dd870bf7cec4ec6"
+  },
+  "name": "analyst",
+  "email": "analyst@gmail.com",
+  "mobile": "123456789",
+  "image": "",
+  "role": "analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "fdsfdsf",
+  "bankAccountNumber": "dsfsdfsdf",
+  "ifseCode": "sdf",
+  "panNumber": "dsfsdf",
+  "password": "$2a$10$C7L2NIzpALROVtfKVC66cu//6FywRS2Jr/YWj0brxf9ZD.Pvllv1C",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-18T05:03:05.354Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T08:38:59.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64df23c5b9a850c62288a308"
+  },
+  "name": "mohan",
+  "email": "kl@gmail.com",
+  "mobile": "1325469780",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$Hr45JuwaTpWeaOgcm3En0Oy2BTT/R3RYdrP9zypIFCQHBKJo8cKSO",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-18T07:54:45.488Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-18T07:54:45.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e04b79b8a0d2e9f3ce2f1a"
+  },
+  "name": "asdasdasd",
+  "email": "asdasdasds@gmail.com",
+  "mobile": "1234567980",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$Cwkrdl954FFId/q4Fl/ysuWrcXlZqfJ0kknR1sszyjRcQxq9x0Wju",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-19T04:56:25.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-19T04:56:25.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e0da49eff15889b2139ace"
+  },
+  "name": "Shubham",
+  "email": "shubham@gmail.com",
+  "mobile": "1234567980",
+  "image": "https://content-saas-crm.onrender.com/uploads/users-images/1693982105475-mail.png",
+  "role": "keyword-analyst",
+  "facebook": "sadasdasdasd",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$jmZWM26r7.Fnwba/AfiWG.BOW9AAh16LQA8ABVGCDUBU/S/ikS3iK",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-19T15:05:45.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T06:35:05.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e230b46c0a716c00a1e3f4"
+  },
+  "name": "ram",
+  "email": "ram@gmail.com",
+  "mobile": "12345678900",
+  "image": "https://content-saas-crm.onrender.com/uploads/users-images/1693982160194-charm_circle-cross.png",
+  "role": "author",
+  "facebook": "fdfdfdf",
+  "twitter": "sadf",
+  "linkedin": "dfdfdf",
+  "authorBio": "sdda",
+  "address": "adssa",
+  "bankAccountNumber": "sadsd",
+  "ifseCode": "asd",
+  "panNumber": "asdasdasd",
+  "password": "$2a$10$EpZSEWwnqE2GKioGkm7uv.LU7xubQ3XnZlW/.MROYbhk2XuCZSLrS",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-20T15:26:44.978Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T06:36:00.331Z"
+  },
+  "__v": 0,
+  "defaultPayOut": ""
+},
+{
+  "_id": {
+    "$oid": "64e2fbe8153b71f544724561"
+  },
+  "name": "new author",
+  "email": "new@gmail.com",
+  "mobile": "1234567980",
+  "image": "",
+  "role": "author",
+  "facebook": "sdsdsd",
+  "twitter": "dfsdf",
+  "linkedin": "sdsdsds",
+  "authorBio": "sdfsdf",
+  "address": "dsfds",
+  "bankAccountNumber": "sdfsdf",
+  "ifseCode": "sdfds",
+  "panNumber": "fsdf",
+  "password": "$2a$10$o.zg8nTgDin2bOCg1MCBcuQMrWHwEshFHCRE0aGw/LfMBLwgtRQsm",
+  "defaultPayOut": "100",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-21T05:53:44.516Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T05:59:03.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e314ba43cee38c7ab61258"
+  },
+  "name": "Prabhjot ",
+  "email": "lbmprabh@gmail.com",
+  "mobile": "8765435267",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$Yz0r3lO5jWw4bjRXLS34Tet0Dow7Eh2pL83ls1mRywTtkBvF9GiuS",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-21T07:39:38.908Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T08:09:10.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e31d1a43cee38c7ab61341"
+  },
+  "name": "test",
+  "email": "test123@yopmail.com",
+  "mobile": "1234567890",
+  "image": "",
+  "role": "sub-admin",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$m3d9DRpsHtK2RQEErWQuFu4v9YL3mY8EgC3/5.HUdJl6.qFvsd7cu",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-21T08:15:22.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T08:15:22.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e45552133b13adc5a19500"
+  },
+  "name": "subadmin ",
+  "email": "subadmin@gmail.com",
+  "mobile": "12347685490",
+  "image": "",
+  "role": "sub-admin",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$fbXzW.6D67kvU.cJer4fIOs0/d/7UM1CfRDHNzY47LnyiM.OSx6j.",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-22T06:27:30.200Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-22T06:27:30.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e4abeaf283d1f8949ca891"
+  },
+  "name": "author2",
+  "email": "author2@gmail.com",
+  "mobile": "1234567890",
+  "image": "",
+  "role": "author",
+  "facebook": "Facebook.com",
+  "twitter": "twitter.com",
+  "linkedin": "linkedin.com",
+  "authorBio": "Bio..",
+  "address": "sector 75 ",
+  "bankAccountNumber": "123456789012",
+  "ifseCode": "h123hhjhjhui",
+  "panNumber": "125728",
+  "password": "$2a$10$LliWjmToWhns0TGw2xKkd.UA57V12zpZnb6mCA7MbaNE3kbSTbu5y",
+  "defaultPayOut": "12",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-22T12:36:58.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:07:22.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec4309407ba0f7927dddf2"
+  },
+  "name": "ev",
+  "email": "ev@gmail.com",
+  "mobile": "123456789",
+  "image": "",
+  "role": "evaluator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$LMT1JrXMD8t9P/CVH2Eg4eKAshELWIAM63kRuuWKmYJrr3JVV3YiS",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-28T06:47:37.297Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T06:47:37.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec75a09914f3c90cfffd68"
+  },
+  "name": "dfsdfsd",
+  "email": "sdfdsf@gmail.com",
+  "mobile": "fsdfs",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$/neUBgZIT3dgUUJB7afD3OA16p1SNS.2d5OamvD0b/menRJIZqYSq",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-28T10:23:28.400Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T10:23:28.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec75b59914f3c90cfffd70"
+  },
+  "name": "fsdfds",
+  "email": "fsdf@gmail.com",
+  "mobile": "sdfsdfds",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$Tf/mD3qnI5NsqMzOoxpXou2wt6OmP29sCsX4mRiJ2fm9F3hm/nlpm",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-28T10:23:49.638Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T10:23:49.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec75c89914f3c90cfffd78"
+  },
+  "name": "dsfsdf",
+  "email": "dsfsddfsd@gmail.com",
+  "mobile": "dsfsdfs",
+  "image": "",
+  "role": "author",
+  "facebook": "dsfdsfds",
+  "twitter": "fdsfdsfsdfsdfdsff",
+  "linkedin": "fsdfds",
+  "authorBio": "sdfdsfsd",
+  "address": "dsfdsfsd",
+  "bankAccountNumber": "fsdfdsf",
+  "ifseCode": "sdfdsf",
+  "panNumber": "sdfsdf",
+  "password": "$2a$10$YCCdvJTBrH1/PL4ifXGwiO/7kwOjDiAtmqZEjCORoTTkSfMVKcOVW",
+  "defaultPayOut": "fdsfdsfsd",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-28T10:24:08.868Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T10:24:08.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec86c30c738a86c5cf7a9b"
+  },
+  "name": "Shubham",
+  "email": "bisht@gmail.com",
+  "mobile": "14141344124",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$sg1AzvDWPbLWQlxYbSH2W.W3MJc7Yl6cFgG1IHizkC7cVUg4aXwhu",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-28T11:36:35.358Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-28T11:36:35.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec895056bf7ec5e6ec9975"
+  },
+  "name": "Shubham",
+  "email": "shubhamsaini1379@gmail.com",
+  "mobile": "1234567980",
+  "image": "",
+  "role": "evaluator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$QvpfvXnnYv3sSM6xgErEu.v86TLW3Sv02vjJNo9nuHndBnZjKHRyS",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-28T11:47:28.186Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T08:35:08.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ed96c22c49c7236a996009"
+  },
+  "name": "keyword analyst",
+  "email": "k29eyword@yopmail.com",
+  "mobile": "1234567890",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$WysDk8SathHQeXwRJn9reuEqCI/MgJYBL2GPOAW4iA2rnNRp09WIS",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-29T06:57:06.932Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-29T06:57:06.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64edbe18ebbbd8fb46fcf9a4"
+  },
+  "name": "Newjoballo",
+  "email": "allo@yopmail.com",
+  "mobile": "1234567890",
+  "image": "https://content-saas-crm.onrender.com/uploads/users-images/1693812394637-dale-nibbe--BBWI4_qph8-unsplash.jpg",
+  "role": "job-allocator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$yUNwlMc0tdbkfmL47RjhQO.3PnEJ8MKXg.Kl8L2/rYu82grFDyM/y",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-08-29T09:44:56.856Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T07:26:35.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f178723371915cf9d014d5"
+  },
+  "name": "JA-1",
+  "email": "ja1@yopmail.com",
+  "mobile": "9999999999",
+  "image": "",
+  "role": "job-allocator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$TD3V/PnvpRdSpj51Zl43iuO0LYowDmwfwj38WYNwUfSng59/yK6Tu",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-01T05:36:50.081Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-01T05:36:50.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f580255235ffd76a733ae2"
+  },
+  "name": "ketnew",
+  "email": "keytest@yopmail.com",
+  "mobile": "1234567890",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$4IzjSa42DLOFz.w9VzQwCeFIskMoxVH.3q8zu6N0Dhweyg4H1OcH6",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-04T06:58:45.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T06:58:45.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f984c76656537da08bd535"
+  },
+  "name": "Shivam Bansal",
+  "email": "shivam.bansal@slidetech.in",
+  "mobile": "shivam.bansal@slidetech.in",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$eljE6LVGZesN8aJkum6bBO0XK5Mlqrb0fAUToVUMU9i7DgzGFM5we",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-07T08:07:35.756Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T08:07:35.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f985666656537da08bd543"
+  },
+  "name": "Kshivam",
+  "email": "kshivam94@yahoo.in",
+  "mobile": "1562145865",
+  "image": "",
+  "role": "job-allocator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$d5la995Q1ZsQNeEFnuqn5u0idZP6OewaA/kfQu4LRurWPFtZEJlSS",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-07T08:10:14.864Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T08:10:14.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f985f66656537da08bd54b"
+  },
+  "name": "Post Shivam",
+  "email": "mypostshub@gmail.com",
+  "mobile": "2342343425",
+  "image": "",
+  "role": "author",
+  "facebook": "#",
+  "twitter": "#",
+  "linkedin": "#",
+  "authorBio": "sdasdfas",
+  "address": "house no 1028",
+  "bankAccountNumber": "23q42345",
+  "ifseCode": "dsfs",
+  "panNumber": "sdgf",
+  "password": "$2a$10$bRhucxNYJcX.XiFuGz09/OMdMcsW3FqK/KyjfFxkX.Gomq2K6rGYG",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-07T08:12:38.537Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T06:29:13.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f986d46656537da08bd55d"
+  },
+  "name": "Ankit Vaid",
+  "email": "ankit.vaid@slidetech.in",
+  "mobile": "ds45234534",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$aAjLb1maNNbbj9clFJ9mmeIbWtgG49b8oMry7tnUzL9M.XHk7yR52",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-07T08:16:20.766Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T08:16:20.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f9d4f4d160e943373cfb46"
+  },
+  "name": "new1",
+  "email": "admindddddsssss@gmail.com",
+  "mobile": "1234567890",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$CQkzXgEHMAlPuvSlnpXVwe2Q.MSB0WwCUmXlkUd328nRW9PW.2ahK",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-07T13:49:40.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T13:49:40.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "name": "Pahul test KA",
+  "email": "katest@yopmail.com",
+  "mobile": "1561561516",
+  "image": "",
+  "role": "keyword-analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$4gdPQv5bs0bY7JquaumSc.iQrjSmM4OiPdLUSg7TtsuCEZZhoJ282",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-18T10:14:09.058Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:14:09.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6508290c626be8d1e72b6ebb"
+  },
+  "name": "Maninder-Allocator",
+  "email": "b3solns1@gmail.com",
+  "mobile": "8800255624",
+  "image": "",
+  "role": "job-allocator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$MfLsDul4MaWqJDmD8y3/lOOLhIC1iy76VQQxuHVI6L09xxTJoq9cO",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-18T10:40:12.516Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:40:12.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082e7f626be8d1e72b6fcb"
+  },
+  "name": "Pahul JA",
+  "email": "jatest@yopmail.com",
+  "mobile": "9519515195",
+  "image": "",
+  "role": "job-allocator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$KvME0DurEXTl.DM.Ydj2Ve90ryWM3.tyteM3P9RzLnX3/B0axhNa.",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-18T11:03:27.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T11:03:27.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082ec7626be8d1e72b6fd3"
+  },
+  "name": "Pahul",
+  "email": "autest@yopmail.com",
+  "mobile": "9515919519",
+  "image": "https://content-saas-crm.onrender.com/uploads/users-images/1695276895628-download (1).jpeg",
+  "role": "author",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "5129521952952952952952952952952592",
+  "ifseCode": "HDFG1591S",
+  "panNumber": "419191951951951",
+  "password": "$2a$10$v7cUi3R7V3EE0T6stgJVd.0U91jaXnKOq7q1bnoiuJFSQEGbG2Y2m",
+  "defaultPayOut": "1",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-18T11:04:39.638Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T06:14:55.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082f16626be8d1e72b6fdb"
+  },
+  "name": "Pahul EV",
+  "email": "evtest@yopmail.com",
+  "mobile": "2116121616",
+  "image": "",
+  "role": "evaluator",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$jC9szpYq6HZi1sS4uZlo6uZaMA8NzFVds7owlnm7PR2qiJWrWd9Ti",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-18T11:05:58.175Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T11:05:58.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082f49626be8d1e72b6fe3"
+  },
+  "name": "Pahul AN",
+  "email": "antest@yopmail.com",
+  "mobile": "2592529292",
+  "image": "",
+  "role": "analyst",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "authorBio": "",
+  "address": "",
+  "bankAccountNumber": "",
+  "ifseCode": "",
+  "panNumber": "",
+  "password": "$2a$10$BJ9ZUWHT8JFwEzibORvKkukVGe1mNbE.sq7/1bAQUDY7NSQmdQfmS",
+  "defaultPayOut": "",
+  "activeUser": true,
+  "createdAt": {
+    "$date": "2023-09-18T11:06:49.829Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T11:06:49.829Z"
+  },
+  "__v": 0
+}]
