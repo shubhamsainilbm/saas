@@ -1,0 +1,279 @@
+[{
+  "_id": {
+    "$oid": "6503111e370a58d495b66f20"
+  },
+  "allocatedTo": "mypostshub@gmail.com",
+  "evaluatedBy": "shubhamsaini1379@gmail.com",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "",
+  "dateOfPublishing": "",
+  "amount": "0",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [
+    "https://content-saas-crm.onrender.com/uploads/blogDocument/1694699954023_14-09-2023-admin.docx"
+  ],
+  "grammarlyScreenshot": [
+    "https://content-saas-crm.onrender.com/uploads/grammarlyScreenshots/1694699954314_14-09-2023-admin.png"
+  ],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "6503111e370a58d495b66f1c"
+  },
+  "userId": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:56:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T06:29:13.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503112e370a58d495b66f36"
+  },
+  "allocatedTo": "author2@gmail.com",
+  "evaluatedBy": "evaluator@gmail.com",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "",
+  "dateOfPublishing": "",
+  "amount": "0",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [],
+  "grammarlyScreenshot": [],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "6503112d370a58d495b66f32"
+  },
+  "userId": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:57:02.109Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:06:46.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503113b370a58d495b66f46"
+  },
+  "allocatedTo": "ram@gmail.com",
+  "evaluatedBy": "ev@gmail.com",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "",
+  "dateOfPublishing": "",
+  "amount": "0",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [],
+  "grammarlyScreenshot": [],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "6503113b370a58d495b66f42"
+  },
+  "userId": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:57:15.997Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:04:38.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503115e370a58d495b66f60"
+  },
+  "allocatedTo": "author2@gmail.com",
+  "evaluatedBy": "evaluator@gmail.com",
+  "wordCount": "10",
+  "scoreGivenByEvaluator": "12",
+  "dateOfPublishing": "2023-09-09",
+  "amount": "120",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [
+    "https://content-saas-crm.onrender.com/uploads/blogDocument/1694700441911_14-09-2023-admin.docx"
+  ],
+  "grammarlyScreenshot": [
+    "https://content-saas-crm.onrender.com/uploads/grammarlyScreenshots/1694700442199_14-09-2023-admin.png"
+  ],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "6503115e370a58d495b66f5c"
+  },
+  "userId": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:57:50.347Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:09:04.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650405c8929fea79efa6e89c"
+  },
+  "allocatedTo": "ram@gmail.com",
+  "evaluatedBy": "ev@gmail.com",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "",
+  "dateOfPublishing": "",
+  "amount": "0",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [],
+  "grammarlyScreenshot": [],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "650405c8929fea79efa6e898"
+  },
+  "userId": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-15T07:20:40.527Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:04:14.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6508297f626be8d1e72b6ed5"
+  },
+  "allocatedTo": "mypostshub@gmail.com",
+  "evaluatedBy": "shubhamsaini1379@gmail.com",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "",
+  "dateOfPublishing": "",
+  "amount": "0",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [],
+  "grammarlyScreenshot": [],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "6508297f626be8d1e72b6ed1"
+  },
+  "userId": {
+    "$oid": "64f986d46656537da08bd55d"
+  },
+  "createdAt": {
+    "$date": "2023-09-18T10:42:07.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:44:58.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65083ee3c646fcb9c0ba6471"
+  },
+  "allocatedTo": "autest@yopmail.com",
+  "evaluatedBy": "evtest@yopmail.com",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "1",
+  "dateOfPublishing": "",
+  "amount": "0",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [
+    "https://content-saas-crm.onrender.com/uploads/blogDocument/1695039788619_18-09-2023-autest.docx",
+    "https://content-saas-crm.onrender.com/uploads/blogDocument/1695182914407_20-09-2023-autest.docx"
+  ],
+  "grammarlyScreenshot": [
+    "https://content-saas-crm.onrender.com/uploads/grammarlyScreenshots/1695039788634_18-09-2023-autest.jpg"
+  ],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "65083ee3c646fcb9c0ba646b"
+  },
+  "userId": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "createdAt": {
+    "$date": "2023-09-18T12:13:23.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T04:08:34.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65083f18c646fcb9c0ba6487"
+  },
+  "allocatedTo": "autest@yopmail.com",
+  "evaluatedBy": "evtest@yopmail.com",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "",
+  "dateOfPublishing": "",
+  "amount": "0",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [
+    "https://content-saas-crm.onrender.com/uploads/blogDocument/1695111286860_19-09-2023-autest.docx",
+    "https://content-saas-crm.onrender.com/uploads/blogDocument/1695111322193_19-09-2023-autest.docx"
+  ],
+  "grammarlyScreenshot": [
+    "https://content-saas-crm.onrender.com/uploads/grammarlyScreenshots/1695111287048_19-09-2023-autest.jpg"
+  ],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "65083f18c646fcb9c0ba6483"
+  },
+  "userId": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "createdAt": {
+    "$date": "2023-09-18T12:14:16.471Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:15:22.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650979ff64f00f2c6ba89b49"
+  },
+  "allocatedTo": "",
+  "evaluatedBy": "",
+  "wordCount": "",
+  "scoreGivenByEvaluator": "",
+  "dateOfPublishing": "",
+  "amount": "",
+  "url": "",
+  "paidOn": "",
+  "blogDocument": [],
+  "grammarlyScreenshot": [],
+  "activeMember": "",
+  "jobId": {
+    "$oid": "650979ff64f00f2c6ba89b45"
+  },
+  "userId": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "createdAt": {
+    "$date": "2023-09-19T10:37:51.897Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T10:37:51.897Z"
+  },
+  "__v": 0
+}]

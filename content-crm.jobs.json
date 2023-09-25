@@ -1,0 +1,379 @@
+[{
+  "_id": {
+    "$oid": "6503111e370a58d495b66f1c"
+  },
+  "keyword": "hello",
+  "blogTitle": "test",
+  "products": "fdf",
+  "alliedKeyword": "dfd",
+  "questions": [
+    {
+      "questions": "fdfd"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "dfdf"
+    }
+  ],
+  "priority": "low",
+  "comments": "dfd",
+  "status": "in-progress",
+  "assignJob": {
+    "author": "mypostshub@gmail.com",
+    "evaluator": {
+      "evaluatedBy": "shubhamsaini1379@gmail.com",
+      "gScreenShoot": true,
+      "blogDoc": true
+    }
+  },
+  "pendingOnDesk": "evaluator - evaluator",
+  "createdBy": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:56:46.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T06:29:13.812Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": ""
+},
+{
+  "_id": {
+    "$oid": "6503112d370a58d495b66f32"
+  },
+  "keyword": "dfd",
+  "blogTitle": "fdf",
+  "products": "fdf",
+  "alliedKeyword": "dfd",
+  "questions": [
+    {
+      "questions": "fdfd"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "fdf"
+    }
+  ],
+  "priority": "medium",
+  "comments": "dfd",
+  "status": "started",
+  "assignJob": {
+    "author": "author2@gmail.com",
+    "evaluator": {
+      "evaluatedBy": "evaluator@gmail.com",
+      "gScreenShoot": false,
+      "blogDoc": false
+    }
+  },
+  "pendingOnDesk": "author - author2",
+  "createdBy": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:57:01.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:06:47.123Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": ""
+},
+{
+  "_id": {
+    "$oid": "6503113b370a58d495b66f42"
+  },
+  "keyword": "dfdf",
+  "blogTitle": "fdfdfdf",
+  "products": "dfdf",
+  "alliedKeyword": "dfd",
+  "questions": [
+    {
+      "questions": "fdfdfdfdf"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "fdfdfdf"
+    }
+  ],
+  "priority": "high",
+  "comments": "fdfd",
+  "status": "started",
+  "assignJob": {
+    "author": "ram@gmail.com",
+    "evaluator": {
+      "evaluatedBy": "ev@gmail.com",
+      "gScreenShoot": false,
+      "blogDoc": false
+    }
+  },
+  "pendingOnDesk": "author - ram",
+  "createdBy": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:57:15.859Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:04:38.741Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": ""
+},
+{
+  "_id": {
+    "$oid": "6503115e370a58d495b66f5c"
+  },
+  "keyword": "dfdf",
+  "blogTitle": "dfdf",
+  "products": "dfd",
+  "alliedKeyword": "fdf",
+  "questions": [
+    {
+      "questions": "dfdfd"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "fdfdf"
+    }
+  ],
+  "priority": "medium",
+  "comments": "dfdfd",
+  "status": "complete",
+  "assignJob": {
+    "author": "author2@gmail.com",
+    "evaluator": {
+      "evaluatedBy": "evaluator@gmail.com",
+      "gScreenShoot": true,
+      "blogDoc": true
+    }
+  },
+  "pendingOnDesk": "analyst",
+  "createdBy": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T13:57:50.198Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T14:09:05.113Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": "2023-09-09"
+},
+{
+  "_id": {
+    "$oid": "650405c8929fea79efa6e898"
+  },
+  "keyword": "xcxz",
+  "blogTitle": "czxczx",
+  "products": "czxczx",
+  "alliedKeyword": "czxczxc",
+  "questions": [
+    {
+      "questions": "zxc"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "zxczxc"
+    }
+  ],
+  "priority": "low",
+  "comments": "zxczxc",
+  "status": "started",
+  "assignJob": {
+    "author": "ram@gmail.com",
+    "evaluator": {
+      "evaluatedBy": "ev@gmail.com",
+      "gScreenShoot": false,
+      "blogDoc": false
+    }
+  },
+  "pendingOnDesk": "author - ram",
+  "createdBy": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "createdAt": {
+    "$date": "2023-09-15T07:20:40.350Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:04:14.581Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": ""
+},
+{
+  "_id": {
+    "$oid": "6508297f626be8d1e72b6ed1"
+  },
+  "keyword": "test 1809",
+  "blogTitle": "Top 10 plan",
+  "products": "https://www.slideteam.net/project-proposal-powerpoint-presentation-slides.html, https://www.slideteam.net/innovation-project-proposal-powerpoint-presentation-slides.html, https://www.slideteam.net/one-pager-6-sigma-project-proposal-sample-template-presentation-report-infographic-ppt-pdf-document.html",
+  "alliedKeyword": "business proposal, project management, project budget, project timeline",
+  "questions": [
+    {
+      "questions": "What is a Project proposal?"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "https://www.slideteam.net/blog/top-10-research-project-proposal-templates"
+    }
+  ],
+  "priority": "high",
+  "comments": "ABCDE",
+  "status": "started",
+  "assignJob": {
+    "author": "mypostshub@gmail.com",
+    "evaluator": {
+      "evaluatedBy": "shubhamsaini1379@gmail.com",
+      "gScreenShoot": false,
+      "blogDoc": false
+    }
+  },
+  "pendingOnDesk": "author - Post Shivam",
+  "createdBy": {
+    "$oid": "64f986d46656537da08bd55d"
+  },
+  "createdAt": {
+    "$date": "2023-09-18T10:42:07.251Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T10:44:58.927Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": ""
+},
+{
+  "_id": {
+    "$oid": "65083ee3c646fcb9c0ba646b"
+  },
+  "keyword": "Serverjs",
+  "blogTitle": "How to introduce server?",
+  "products": "Keyboard,mouse,notepad,keychain",
+  "alliedKeyword": "notice,misc,speaker",
+  "questions": [
+    {
+      "questions": "What is a server?"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "https://www.google.com/"
+    }
+  ],
+  "priority": "low",
+  "comments": "This is a test server comment",
+  "status": "in-progress",
+  "assignJob": {
+    "author": "autest@yopmail.com",
+    "evaluator": {
+      "evaluatedBy": "evtest@yopmail.com",
+      "gScreenShoot": true,
+      "blogDoc": true
+    }
+  },
+  "pendingOnDesk": "analyst",
+  "createdBy": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "createdAt": {
+    "$date": "2023-09-18T12:13:23.381Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T04:04:24.103Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": ""
+},
+{
+  "_id": {
+    "$oid": "65083f18c646fcb9c0ba6483"
+  },
+  "keyword": "Serverjs2",
+  "blogTitle": "How to start a server?",
+  "products": "Keyboard,mouse,notepad,keychain",
+  "alliedKeyword": "notice,misc,speaker",
+  "questions": [
+    {
+      "questions": "What is a server?"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "https://www.google.com/"
+    }
+  ],
+  "priority": "low",
+  "comments": "This is a comment for testing.",
+  "status": "in-progress",
+  "assignJob": {
+    "author": "autest@yopmail.com",
+    "evaluator": {
+      "evaluatedBy": "evtest@yopmail.com",
+      "gScreenShoot": true,
+      "blogDoc": true
+    }
+  },
+  "pendingOnDesk": "evaluator - Pahul EV",
+  "createdBy": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "createdAt": {
+    "$date": "2023-09-18T12:14:16.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:14:47.829Z"
+  },
+  "__v": 0,
+  "dateOfPublishing": ""
+},
+{
+  "_id": {
+    "$oid": "650979ff64f00f2c6ba89b45"
+  },
+  "keyword": "Test",
+  "blogTitle": "This blog is a test blog",
+  "products": "product 1, product 2",
+  "alliedKeyword": "Allied Keyword 1, Allied Keyword 2",
+  "questions": [
+    {
+      "questions": "question 1"
+    },
+    {
+      "questions": "Question 2"
+    }
+  ],
+  "interlinkingBlogs": [
+    {
+      "interlinkingBlogs": "google.com"
+    },
+    {
+      "interlinkingBlogs": "gmail.com"
+    }
+  ],
+  "priority": "low",
+  "comments": "comment1",
+  "status": "not-started",
+  "assignJob": {
+    "author": "",
+    "evaluator": ""
+  },
+  "pendingOnDesk": "job-allocator",
+  "createdBy": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "createdAt": {
+    "$date": "2023-09-19T10:37:51.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T10:37:51.731Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,2208 @@
+[{
+  "_id": {
+    "$oid": "64ddf241636753fee0c630c4"
+  },
+  "userId": {
+    "$oid": "64ddf241636753fee0c630c2"
+  },
+  "permissionId": {
+    "$oid": "64dc551bfb616f3bce6b4571"
+  },
+  "permissionRole": "admin",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": true
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64defb894dd870bf7cec4ec8"
+  },
+  "userId": {
+    "$oid": "64defb894dd870bf7cec4ec6"
+  },
+  "permissionId": {
+    "$oid": "64dc57a1fb616f3bce6b4583"
+  },
+  "permissionRole": "analyst",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": true
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": true,
+      "url": false,
+      "paidOn": true,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64df23c5b9a850c62288a30a"
+  },
+  "userId": {
+    "$oid": "64df23c5b9a850c62288a308"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e04b79b8a0d2e9f3ce2f1c"
+  },
+  "userId": {
+    "$oid": "64e04b79b8a0d2e9f3ce2f1a"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e0da49eff15889b2139ad0"
+  },
+  "userId": {
+    "$oid": "64e0da49eff15889b2139ace"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e230b56c0a716c00a1e3f6"
+  },
+  "userId": {
+    "$oid": "64e230b46c0a716c00a1e3f4"
+  },
+  "permissionId": {
+    "$oid": "64dc56d8fb616f3bce6b457d"
+  },
+  "permissionRole": "author",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": false,
+      "comments": false,
+      "downloadDocket": true,
+      "createdBy": false,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e2fbe8153b71f544724563"
+  },
+  "userId": {
+    "$oid": "64e2fbe8153b71f544724561"
+  },
+  "permissionId": {
+    "$oid": "64dc56d8fb616f3bce6b457d"
+  },
+  "permissionRole": "author",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": false,
+      "comments": false,
+      "downloadDocket": true,
+      "createdBy": false,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e314bb43cee38c7ab6125a"
+  },
+  "userId": {
+    "$oid": "64e314ba43cee38c7ab61258"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e31d1b43cee38c7ab61343"
+  },
+  "userId": {
+    "$oid": "64e31d1a43cee38c7ab61341"
+  },
+  "permissionId": {
+    "$oid": "64dc5554fb616f3bce6b4574"
+  },
+  "permissionRole": "sub-admin",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": true
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e45552133b13adc5a19502"
+  },
+  "userId": {
+    "$oid": "64e45552133b13adc5a19500"
+  },
+  "permissionId": {
+    "$oid": "64dc5554fb616f3bce6b4574"
+  },
+  "permissionRole": "sub-admin",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": true
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e4abeaf283d1f8949ca893"
+  },
+  "userId": {
+    "$oid": "64e4abeaf283d1f8949ca891"
+  },
+  "permissionId": {
+    "$oid": "64dc56d8fb616f3bce6b457d"
+  },
+  "permissionRole": "author",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": false,
+      "comments": false,
+      "downloadDocket": true,
+      "createdBy": false,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec4309407ba0f7927dddf4"
+  },
+  "userId": {
+    "$oid": "64ec4309407ba0f7927dddf2"
+  },
+  "permissionId": {
+    "$oid": "64dc5731fb616f3bce6b4580"
+  },
+  "permissionRole": "evaluator",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec75a09914f3c90cfffd6a"
+  },
+  "userId": {
+    "$oid": "64ec75a09914f3c90cfffd68"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec75b59914f3c90cfffd72"
+  },
+  "userId": {
+    "$oid": "64ec75b59914f3c90cfffd70"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec75c99914f3c90cfffd7a"
+  },
+  "userId": {
+    "$oid": "64ec75c89914f3c90cfffd78"
+  },
+  "permissionId": {
+    "$oid": "64dc56d8fb616f3bce6b457d"
+  },
+  "permissionRole": "author",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": false,
+      "comments": false,
+      "downloadDocket": true,
+      "createdBy": false,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec86c30c738a86c5cf7a9d"
+  },
+  "userId": {
+    "$oid": "64ec86c30c738a86c5cf7a9b"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ec895056bf7ec5e6ec9977"
+  },
+  "userId": {
+    "$oid": "64ec895056bf7ec5e6ec9975"
+  },
+  "permissionId": {
+    "$oid": "64dc5731fb616f3bce6b4580"
+  },
+  "permissionRole": "evaluator",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ed96c32c49c7236a99600b"
+  },
+  "userId": {
+    "$oid": "64ed96c22c49c7236a996009"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64edbe19ebbbd8fb46fcf9a6"
+  },
+  "userId": {
+    "$oid": "64edbe18ebbbd8fb46fcf9a4"
+  },
+  "permissionId": {
+    "$oid": "64dc5642fb616f3bce6b457a"
+  },
+  "permissionRole": "job-allocator",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f178723371915cf9d014d7"
+  },
+  "userId": {
+    "$oid": "64f178723371915cf9d014d5"
+  },
+  "permissionId": {
+    "$oid": "64dc5642fb616f3bce6b457a"
+  },
+  "permissionRole": "job-allocator",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f580275235ffd76a733ae4"
+  },
+  "userId": {
+    "$oid": "64f580255235ffd76a733ae2"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f984c96656537da08bd537"
+  },
+  "userId": {
+    "$oid": "64f984c76656537da08bd535"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f985686656537da08bd545"
+  },
+  "userId": {
+    "$oid": "64f985666656537da08bd543"
+  },
+  "permissionId": {
+    "$oid": "64dc5642fb616f3bce6b457a"
+  },
+  "permissionRole": "job-allocator",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f985f76656537da08bd54d"
+  },
+  "userId": {
+    "$oid": "64f985f66656537da08bd54b"
+  },
+  "permissionId": {
+    "$oid": "64dc56d8fb616f3bce6b457d"
+  },
+  "permissionRole": "author",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": false,
+      "comments": false,
+      "downloadDocket": true,
+      "createdBy": false,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f986d66656537da08bd55f"
+  },
+  "userId": {
+    "$oid": "64f986d46656537da08bd55d"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f9d4f5d160e943373cfb48"
+  },
+  "userId": {
+    "$oid": "64f9d4f4d160e943373cfb46"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650822f2c667e432b0f8dabe"
+  },
+  "userId": {
+    "$oid": "650822f1c667e432b0f8dabc"
+  },
+  "permissionId": {
+    "$oid": "64dc5619fb616f3bce6b4577"
+  },
+  "permissionRole": "keyword-analyst",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6508290e626be8d1e72b6ebd"
+  },
+  "userId": {
+    "$oid": "6508290c626be8d1e72b6ebb"
+  },
+  "permissionId": {
+    "$oid": "64dc5642fb616f3bce6b457a"
+  },
+  "permissionRole": "job-allocator",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082e80626be8d1e72b6fcd"
+  },
+  "userId": {
+    "$oid": "65082e7f626be8d1e72b6fcb"
+  },
+  "permissionId": {
+    "$oid": "64dc5642fb616f3bce6b457a"
+  },
+  "permissionRole": "job-allocator",
+  "permissionType": {
+    "view": {
+      "createJob": true,
+      "updateJob": true,
+      "deleteJob": true,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082ec9626be8d1e72b6fd5"
+  },
+  "userId": {
+    "$oid": "65082ec7626be8d1e72b6fd3"
+  },
+  "permissionId": {
+    "$oid": "64dc56d8fb616f3bce6b457d"
+  },
+  "permissionRole": "author",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": false,
+      "comments": false,
+      "downloadDocket": true,
+      "createdBy": false,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": true,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082f17626be8d1e72b6fdd"
+  },
+  "userId": {
+    "$oid": "65082f16626be8d1e72b6fdb"
+  },
+  "permissionId": {
+    "$oid": "64dc5731fb616f3bce6b4580"
+  },
+  "permissionRole": "evaluator",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": false
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": false,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": false,
+      "amount": false,
+      "url": false,
+      "paidOn": false,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": true,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65082f4b626be8d1e72b6fe5"
+  },
+  "userId": {
+    "$oid": "65082f49626be8d1e72b6fe3"
+  },
+  "permissionId": {
+    "$oid": "64dc57a1fb616f3bce6b4583"
+  },
+  "permissionRole": "analyst",
+  "permissionType": {
+    "view": {
+      "createJob": false,
+      "updateJob": false,
+      "deleteJob": false,
+      "keyword": true,
+      "blogTitle": true,
+      "products": true,
+      "alliedkeyword": true,
+      "questions": true,
+      "interlinkingBlogs": true,
+      "priority": true,
+      "comments": true,
+      "downloadDocket": true,
+      "createdBy": true,
+      "createdOn": true,
+      "allocatedTo": true,
+      "evaluatedBy": true,
+      "wordCount": true,
+      "scoreGivenByEvaluator": true,
+      "dateOfpublishing": true,
+      "amount": true,
+      "url": true,
+      "paidOn": true,
+      "blogDocument": true,
+      "grammarlyScreenshot": true,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": true,
+      "jobListing": true,
+      "jobClose": true
+    },
+    "edit": {
+      "keyword": false,
+      "blogTitle": false,
+      "products": false,
+      "alliedkeyword": false,
+      "questions": false,
+      "interlinkingBlogs": false,
+      "priority": false,
+      "comments": false,
+      "allocatedTo": false,
+      "evaluatedBy": false,
+      "wordCount": true,
+      "scoreGivenByEvaluator": false,
+      "dateOfpublishing": false,
+      "amount": true,
+      "url": false,
+      "paidOn": true,
+      "blogDocument": false,
+      "grammarlyScreenshot": false,
+      "keywordAnalystAndAuthorChat": false,
+      "evaluatorAndAuthorChat": false,
+      "activeMember": false
+    }
+  },
+  "__v": 0
+}]
